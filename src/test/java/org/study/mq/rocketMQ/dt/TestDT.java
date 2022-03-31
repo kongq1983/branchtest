@@ -19,7 +19,7 @@ public class TestDT {
     public void newUser() throws Exception {
         UserService userService = (UserService) container.getBean("userService");
         userService.newUserAndPoint("测试分布式事务", 2000);
-
+        // 这是测试注释
         Thread.sleep(5000);
     }
 
