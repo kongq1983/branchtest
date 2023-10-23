@@ -20,4 +20,10 @@ public class DevVersion {
     public static final Integer DEV_1022 = 1022;
 
 
+    /**
+     * 1023版本 添加version:1023
+     */
+    public static final Integer DEV_1023 = 1023;
+
+
 }
