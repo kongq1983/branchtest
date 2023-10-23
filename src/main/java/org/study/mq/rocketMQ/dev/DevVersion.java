@@ -14,5 +14,10 @@ public class DevVersion {
      */
     public static final Integer DEV1 = 1;
 
+    /**
+     * 1022版本
+     */
+    public static final Integer DEV_1022 = 1022;
+
 
 }
